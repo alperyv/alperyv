@@ -1,5 +1,3 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fexploring-fundamentals-front-end-web-development&psig=AOvVaw0wahc7L62zssiGswahgXjP&ust=1693086459027000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNisotnk-IADFQAAAAAdAAAAABAE)
-
 
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
