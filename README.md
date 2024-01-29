@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **JavaScript and React**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Bootstrap and Tailwind Css**
+- 🌱 I’m currently learning **AI and Image Processing with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alperyv?tab=repositories](https://github.com/alperyv?tab=repositories)
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **javascript, python**
 
-- 📫 How to reach me **m.alperyavuz@gmail.com**
+- 📫 How to reach me **m.alperyavuz03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alley_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alley_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alper yavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alper yavuz" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/alper yavuz](https://www.linkedin.com/in/mehmet-alper-yavuz-0a76932b1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alper yavuz" height="30" width="40" /></a>
 <a href="https://instagram.com/alperyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperyv" height="30" width="40" /></a>
 </p>
 
