@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Alper Kaan</h1>
+<h3 align="center">A passionate software developer from Istanbul, Turkey</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python** **C/C++** **JavaScript**
 
-- 🌱 I’m currently learning **AI and Image Processing with Python**
+- 🌱 I’m currently learning **C/C++ OOP** **Java** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/alperyv?tab=repositories](https://github.com/alperyv?tab=repositories)
 
-- 💬 Ask me about **javascript, python**
+- 💬 Ask me about **javascript, python, C, Assemly**
 
 - 📫 How to reach me **m.alperyavuz03@gmail.com**
 
