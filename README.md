@@ -1,23 +1,22 @@
+# ⚡ Alper Kaan | Electronics Engineering & Systems Architect
 
-<h1 align="center">Hi 👋, I'm Alper Kaan</h1>
-<h3 align="center">A passionate software developer from Istanbul, Turkey</h3>
+I am an Electronics Engineering undergraduate student specializing in **Edge-to-Cloud Telemetry, IoT Infrastructure, and AI-Supported Embedded Systems**. I build scalable architectures that bridge the gap between physical hardware and digital intelligence.
 
-- 🔭 I’m currently working on **Python** **C/C++** **JavaScript**
+Currently preparing for an academic transfer to Europe, focusing on multi-disciplinary engineering ecosystems.
 
-- 🌱 I’m currently learning **C/C++ OOP** **Java** 
+### 🛠️ Core Engineering Disciplines
+- **IoT & Data Pipelines:** Architecting MQTT-based telemetry networks, payload sterilization (Base64), and time-series data visualization.
+- **Embedded & Control Systems:** C/C++ programming, microcontroller concepts, and implementing PID control loops for hardware stabilization.
+- **AI & Vision:** Computer Vision (OpenCV) integration for biosensors and anomaly detection in physical environments.
 
-- 👨‍💻 All of my projects are available at [https://github.com/alperyv?tab=repositories](https://github.com/alperyv?tab=repositories)
+### 🚀 Featured Architectures
+* 🏙️ **Smart City Edge-to-Cloud Pipeline:** A full-stack, dockerized infrastructure routing environmental, smart-lighting (Zhaga), and AI-camera data via Node-RED into InfluxDB & Grafana.
+* 🌡️ **AI-Supported Heat Block (SITL):** A Software-in-the-Loop prototype combining a mathematical PID thermal control algorithm with AI-driven cellular anomaly detection.
 
-- 💬 Ask me about **javascript, python, C, Assemly**
+### ⚙️ Technical Stack
+**Languages:** Python, C, C++, JavaScript  
+**Infrastructure & Tools:** Docker, Node-RED, InfluxDB, Grafana, MQTT (Mosquitto)  
+**Libraries:** OpenCV, NumPy  
 
-- 📫 How to reach me **m.alperyavuz03@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alley_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alley_01" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mehmet-alper-yavuz-0a76932b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alper yavuz" height="30" width="40" /></a>
-<a href="https://instagram.com/alperyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperyv" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+📫 **Reach out:** [m.alperyavuz03@gmail.com](mailto:m.alperyavuz03@gmail.com) | *Always open to discussing system architecture, philosophy, and tech innovations.*
